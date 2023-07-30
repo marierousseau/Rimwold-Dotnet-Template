@@ -82,6 +82,7 @@
             <power>7</power>
             <cooldownTime>3.1</cooldownTime>
         </li>
+         <!-- you can add lots of melee but we will just add two. -->
         <li>
             <label>barrel</label>
             <capacities>

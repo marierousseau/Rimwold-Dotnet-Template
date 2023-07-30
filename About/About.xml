@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModMetaData>
     <name>ModSource</name>
-    <author>"Your Name Here"</author>
-    <packageId>yourName.ModName</packageId>
-    <description>"Super Cool Mod"</description>
+    <author>Marie Rousseau</author>
+    <packageId>marierousseau.tutorial</packageId>
+    <description>"Learning To Mod"</description>
     <supportedVersions>
         <li>1.4</li>
     </supportedVersions>

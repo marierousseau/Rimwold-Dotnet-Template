@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TraitDef>
+<defName>Epic_crafting</defName>
+<commonality>1</commonality>
+<disabledWorkTags>
+    <li>Animals</li>
+</disabledWorkTags>
+<degreeDatas>
+    <li>
+        <label>Epic Crafting</label>
+        <description>[PAWN_nameDef] excels at crafting. [PAWN_pronoun] can carry heavy things and craft very well. </description>
+        <degree>1</degree>
+            <statOffsets>
+            <CarryingCapacity>25</CarryingCapacity>
+            <WorkSpeedGlobal>0.20</WorkSpeedGlobal>
+            </statOffsets>
+            <skillGains>
+                <li><key>Crafting</key><value>4</value</li>
+            </skillGains>
+    </li>
+</degreeDatas>
+</TraitDef>
